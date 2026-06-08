@@ -809,7 +809,7 @@ input { font-family: inherit; }
   font-size: 24px; color: var(--text3);
 }
 .recipient-name { font-size: 24px; font-weight: 700; }
-.recipient-username { font-size: 20px; color: var(--text3); }
+.recipient-username { font-size: 18px; color: var(--text3); }
 .amount-display {
   display: flex;
   align-items: center;
